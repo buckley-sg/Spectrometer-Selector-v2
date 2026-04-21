@@ -1,0 +1,5705 @@
+{
+  "resolution_records": [
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 2400,
+      "blaze_wavelengths": [
+        240,
+        400
+      ],
+      "bandwidth_nm": 100,
+      "selectable_range": [
+        180,
+        520
+      ],
+      "slit_resolutions": {
+        "10": 0.2,
+        "25": 0.3,
+        "50": 0.4,
+        "100": 0.7,
+        "200": 1.2,
+        "300": 1.8
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 1800,
+      "blaze_wavelengths": [
+        180,
+        250,
+        500
+      ],
+      "bandwidth_nm": 150,
+      "selectable_range": [
+        180,
+        700
+      ],
+      "slit_resolutions": {
+        "10": 0.3,
+        "25": 0.4,
+        "50": 0.6,
+        "100": 1.0,
+        "200": 1.8,
+        "300": 2.6
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 1600,
+      "blaze_wavelengths": [
+        200
+      ],
+      "bandwidth_nm": 160,
+      "selectable_range": [
+        180,
+        780
+      ],
+      "slit_resolutions": {
+        "10": 0.3,
+        "25": 0.4,
+        "50": 0.7,
+        "100": 1.2,
+        "200": 2.0,
+        "300": 2.9
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 1500,
+      "blaze_wavelengths": [
+        600
+      ],
+      "bandwidth_nm": 170,
+      "selectable_range": [
+        180,
+        820
+      ],
+      "slit_resolutions": {
+        "10": 0.3
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 1400,
+      "blaze_wavelengths": [
+        230
+      ],
+      "bandwidth_nm": 180,
+      "selectable_range": [
+        180,
+        900
+      ],
+      "slit_resolutions": {
+        "10": 0.4,
+        "25": 0.5,
+        "50": 0.8,
+        "100": 1.6,
+        "200": 3.0
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 1200,
+      "blaze_wavelengths": [
+        200,
+        300,
+        500,
+        600,
+        750,
+        850
+      ],
+      "bandwidth_nm": 220,
+      "selectable_range": [
+        180,
+        1010
+      ],
+      "slit_resolutions": {
+        "10": 0.4,
+        "25": 0.6,
+        "50": 0.9,
+        "100": 1.7,
+        "200": 3.4,
+        "300": 4.5
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 1000,
+      "blaze_wavelengths": [
+        250,
+        900
+      ],
+      "bandwidth_nm": 300,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 0.7,
+        "25": 0.75,
+        "50": 1.1,
+        "100": 1.9,
+        "200": 3.0,
+        "300": 6.5
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 950,
+      "blaze_wavelengths": [
+        1000
+      ],
+      "bandwidth_nm": 330,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 0.7,
+        "25": 0.9,
+        "50": 1.4,
+        "100": 2.4,
+        "200": 3.5
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 900,
+      "blaze_wavelengths": [
+        500
+      ],
+      "bandwidth_nm": 360,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 0.6,
+        "25": 0.8,
+        "50": 1.3,
+        "100": 2.3,
+        "200": 4.6,
+        "300": 7.1
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 830,
+      "blaze_wavelengths": [
+        800
+      ],
+      "bandwidth_nm": 410,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 0.9,
+        "25": 1.0,
+        "50": 1.5,
+        "100": 2.5,
+        "200": 4.5,
+        "300": 8.3
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 600,
+      "blaze_wavelengths": [
+        250,
+        300,
+        400,
+        500,
+        800,
+        1000
+      ],
+      "bandwidth_nm": 670,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 1.0,
+        "25": 1.2,
+        "50": 1.9,
+        "100": 3.3,
+        "200": 6.7,
+        "300": 10.0
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        300,
+        330,
+        560,
+        770
+      ],
+      "bandwidth_nm": 820,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 1.1,
+        "25": 1.4,
+        "50": 2.4,
+        "100": 3.7,
+        "200": 7.5,
+        "300": 11.5
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 400,
+      "blaze_wavelengths": [
+        250
+      ],
+      "bandwidth_nm": 920,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "25": 2.3,
+        "50": 3.2,
+        "100": 6.0,
+        "200": 12.8
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SE",
+        "EE"
+      ],
+      "grating_grooves": 300,
+      "blaze_wavelengths": [
+        230,
+        300,
+        422,
+        500
+      ],
+      "bandwidth_nm": 920,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 1.7,
+        "25": 2.3,
+        "50": 3.2,
+        "100": 6.0,
+        "200": 12.8,
+        "300": 20.0
+      },
+      "evolve_names": [
+        "SmartEngine",
+        "EagleEye"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 2400,
+      "blaze_wavelengths": [
+        240
+      ],
+      "bandwidth_nm": 140,
+      "selectable_range": [
+        180,
+        540
+      ],
+      "slit_resolutions": {
+        "10": 0.3,
+        "25": 0.4,
+        "50": 0.5,
+        "100": 0.9,
+        "200": 1.7
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 1800,
+      "blaze_wavelengths": [
+        250
+      ],
+      "bandwidth_nm": 200,
+      "selectable_range": [
+        190,
+        380
+      ],
+      "slit_resolutions": {
+        "10": 0.3,
+        "25": 0.4,
+        "50": 0.6,
+        "100": 1.0,
+        "200": 1.8
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 1400,
+      "blaze_wavelengths": [
+        230
+      ],
+      "bandwidth_nm": 250,
+      "selectable_range": [
+        180,
+        920
+      ],
+      "slit_resolutions": {
+        "10": 0.5,
+        "25": 0.6,
+        "50": 0.8,
+        "100": 1.6,
+        "200": 3.0
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 1200,
+      "blaze_wavelengths": [
+        200,
+        250,
+        850
+      ],
+      "bandwidth_nm": 220,
+      "selectable_range": [
+        180,
+        1010
+      ],
+      "slit_resolutions": {
+        "10": 0.6,
+        "25": 0.7,
+        "50": 1.0,
+        "100": 1.9,
+        "200": 3.6
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 1000,
+      "blaze_wavelengths": [
+        900
+      ],
+      "bandwidth_nm": 300,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 0.6,
+        "25": 0.8,
+        "50": 1.1,
+        "100": 1.9,
+        "200": 4.0
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 900,
+      "blaze_wavelengths": [
+        550
+      ],
+      "bandwidth_nm": 400,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 0.8,
+        "25": 0.9,
+        "50": 1.3,
+        "100": 2.5,
+        "200": 5.0,
+        "300": 7.5
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 600,
+      "blaze_wavelengths": [
+        300,
+        500
+      ],
+      "bandwidth_nm": 670,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 1.2,
+        "25": 1.4,
+        "50": 1.9,
+        "100": 3.7,
+        "200": 7.0,
+        "300": 11.0
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        300,
+        330,
+        560,
+        770
+      ],
+      "bandwidth_nm": 825,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 1.5,
+        "25": 1.94,
+        "50": 2.3,
+        "100": 6.7,
+        "200": 8.7,
+        "300": 15.7
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true,
+      "anomalies_fixed": [
+        {
+          "slit": 25,
+          "original": 1.5,
+          "interpolated": 1.94,
+          "good_points": [
+            [
+              10,
+              1.5
+            ],
+            [
+              50,
+              2.3
+            ],
+            [
+              100,
+              6.7
+            ],
+            [
+              200,
+              8.7
+            ]
+          ]
+        },
+        {
+          "slit": 300,
+          "original": 1.5,
+          "interpolated": 15.7,
+          "good_points": [
+            [
+              10,
+              1.5
+            ],
+            [
+              50,
+              2.3
+            ],
+            [
+              100,
+              6.7
+            ],
+            [
+              200,
+              8.7
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "platforms": [
+        "HB"
+      ],
+      "grating_grooves": 300,
+      "blaze_wavelengths": [
+        230,
+        300
+      ],
+      "bandwidth_nm": 920,
+      "selectable_range": [
+        180,
+        1100
+      ],
+      "slit_resolutions": {
+        "10": 1.7,
+        "25": 2.5,
+        "50": 3.9,
+        "100": 8.0,
+        "200": 15.0,
+        "300": 19.0
+      },
+      "evolve_names": [
+        "HummingBird"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2570",
+      "grating_grooves": 236.8,
+      "blaze_wavelengths": [
+        1350
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "10": 2.3,
+        "25": 2.7,
+        "50": 4.3,
+        "100": 8.4,
+        "150": 12.2,
+        "200": 16.2
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2570",
+      "grating_grooves": 300.0,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "10": 1.7,
+        "25": 2.0,
+        "50": 3.2,
+        "100": 6.2,
+        "150": 6.7,
+        "200": 11.9
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2570",
+      "grating_grooves": 400.0,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "10": 1.3,
+        "25": 1.5,
+        "50": 2.3,
+        "100": 4.6,
+        "200": 8.8
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2570",
+      "grating_grooves": 600.0,
+      "blaze_wavelengths": [
+        1600
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "10": 0.7,
+        "25": 0.8
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2570",
+      "grating_grooves": 830.0,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "10": 0.42,
+        "25": 0.5,
+        "50": 0.8,
+        "100": 1.5,
+        "150": 2.2,
+        "200": 2.9
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2560/SW2860",
+      "grating_grooves": 200.0,
+      "blaze_wavelengths": [
+        1550
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 5.0,
+        "100": 9.4,
+        "150": 14.7,
+        "200": 19.1
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2560/SW2860",
+      "grating_grooves": 236.8,
+      "blaze_wavelengths": [
+        1350
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 4.3,
+        "100": 8.1,
+        "150": 12.7,
+        "200": 16.5
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2560/SW2860",
+      "grating_grooves": 400.0,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "25": 2.3,
+        "50": 2.83,
+        "100": 4.4,
+        "150": 6.9,
+        "200": 9.0
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true,
+      "anomalies_fixed": [
+        {
+          "slit": 50,
+          "original": 2.3,
+          "interpolated": 2.83,
+          "good_points": [
+            [
+              25,
+              2.3
+            ],
+            [
+              100,
+              4.4
+            ],
+            [
+              150,
+              6.9
+            ],
+            [
+              200,
+              9.0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2520",
+      "grating_grooves": 120.0,
+      "blaze_wavelengths": [
+        1000
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 8.9,
+        "100": 16.8,
+        "150": 26.1,
+        "200": 34.0
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2880",
+      "grating_grooves": 250.0,
+      "blaze_wavelengths": [
+        1000
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 4.1,
+        "100": 7.7,
+        "150": 12.0,
+        "200": 15.6
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2930S",
+      "grating_grooves": 150.0,
+      "blaze_wavelengths": [
+        1250
+      ],
+      "bandwidth_nm": 1290,
+      "selectable_range": [
+        910,
+        2200
+      ],
+      "slit_resolutions": {
+        "25": 0.6,
+        "50": 6.7,
+        "100": 12.7,
+        "150": 19.4,
+        "200": 25.4
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2960S",
+      "grating_grooves": 120.0,
+      "blaze_wavelengths": [
+        1800
+      ],
+      "bandwidth_nm": 1600,
+      "selectable_range": [
+        900,
+        2500
+      ],
+      "slit_resolutions": {
+        "50": 8.9,
+        "100": 16.5,
+        "150": 26.1,
+        "200": 34.0
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2960S",
+      "grating_grooves": 200.0,
+      "blaze_wavelengths": [
+        1550
+      ],
+      "bandwidth_nm": 1600,
+      "selectable_range": [
+        900,
+        2500
+      ],
+      "slit_resolutions": {
+        "50": 5.0,
+        "100": 9.4,
+        "150": 14.7,
+        "200": 19.1
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2970S",
+      "grating_grooves": 120.0,
+      "blaze_wavelengths": [
+        1800
+      ],
+      "bandwidth_nm": 1600,
+      "selectable_range": [
+        900,
+        2500
+      ],
+      "slit_resolutions": {
+        "50": 8.9,
+        "100": 17.2,
+        "150": 26.1,
+        "200": 33.3
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2970S",
+      "grating_grooves": 200.0,
+      "blaze_wavelengths": [
+        1550
+      ],
+      "bandwidth_nm": 1600,
+      "selectable_range": [
+        900,
+        2500
+      ],
+      "slit_resolutions": {
+        "25": 3.1,
+        "50": 5.0,
+        "100": 9.7,
+        "150": 14.2,
+        "200": 18.7
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SW"
+      ],
+      "model": "SW2970S",
+      "grating_grooves": 400.0,
+      "blaze_wavelengths": [
+        1600
+      ],
+      "bandwidth_nm": 1600,
+      "selectable_range": [
+        900,
+        2500
+      ],
+      "slit_resolutions": {
+        "10": 1.3,
+        "25": 1.5,
+        "50": 2.3,
+        "100": 4.0,
+        "150": 5.7,
+        "200": 7.5
+      },
+      "evolve_names": [
+        "SideWinder"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2014",
+      "grating_grooves": 300,
+      "blaze_wavelengths": [
+        500
+      ],
+      "bandwidth_nm": 300,
+      "selectable_range": [
+        450,
+        750
+      ],
+      "slit_resolutions": {
+        "10": 2.7,
+        "25": 3.3,
+        "50": 4.8,
+        "100": 9.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2014",
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        330
+      ],
+      "bandwidth_nm": 720,
+      "selectable_range": [
+        330,
+        1050
+      ],
+      "slit_resolutions": {
+        "10": 1.5,
+        "25": 2.0,
+        "50": 3.1,
+        "100": 6.0,
+        "200": 12.0,
+        "300": 18.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2014",
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        330
+      ],
+      "bandwidth_nm": 650,
+      "selectable_range": [
+        400,
+        1050
+      ],
+      "slit_resolutions": {
+        "10": 2.2,
+        "25": 2.5,
+        "50": 3.1,
+        "100": 6.0,
+        "200": 12.0,
+        "300": 18.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2014",
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        770
+      ],
+      "bandwidth_nm": null,
+      "selectable_range": null,
+      "slit_resolutions": {
+        "10": 2.2,
+        "25": 2.5,
+        "50": 3.1,
+        "100": 6.0,
+        "200": 12.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2034",
+      "grating_grooves": 150,
+      "blaze_wavelengths": [
+        250
+      ],
+      "bandwidth_nm": 850,
+      "selectable_range": [
+        200,
+        1050
+      ],
+      "slit_resolutions": {
+        "10": 5.5,
+        "25": 6.6,
+        "50": 10.0,
+        "100": 18.3,
+        "200": 36.2
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2034",
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        770
+      ],
+      "bandwidth_nm": null,
+      "selectable_range": [
+        400,
+        1050
+      ],
+      "slit_resolutions": {
+        "10": 2.2,
+        "25": 2.5,
+        "50": 3.1,
+        "100": 6.0,
+        "200": 12.0,
+        "300": 18.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2524",
+      "grating_grooves": 150,
+      "blaze_wavelengths": [
+        1250
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 10.0,
+        "100": 18.0,
+        "200": 30.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PH"
+      ],
+      "model": "PH2534",
+      "grating_grooves": 300,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 5.0,
+        "100": 9.0,
+        "200": 15.0
+      },
+      "evolve_names": [
+        "PocketHawk"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 300,
+      "blaze_wavelengths": [
+        500
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        300,
+        1100
+      ],
+      "slit_resolutions": {
+        "25": 6.5,
+        "50": 10.8,
+        "100": 21.5
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 400,
+      "blaze_wavelengths": [
+        550
+      ],
+      "bandwidth_nm": 820,
+      "selectable_range": [
+        250,
+        1070
+      ],
+      "slit_resolutions": {
+        "25": 5.0,
+        "50": 7.8
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 500,
+      "blaze_wavelengths": [
+        240
+      ],
+      "bandwidth_nm": 670,
+      "selectable_range": [
+        180,
+        850
+      ],
+      "slit_resolutions": {
+        "25": 4.2,
+        "50": 6.2,
+        "100": 11.4
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 600,
+      "blaze_wavelengths": [
+        250
+      ],
+      "bandwidth_nm": 520,
+      "selectable_range": [
+        180,
+        700
+      ],
+      "slit_resolutions": {
+        "25": 3.5,
+        "50": 5.8
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 700,
+      "blaze_wavelengths": [
+        530
+      ],
+      "bandwidth_nm": 420,
+      "selectable_range": [
+        180,
+        600
+      ],
+      "slit_resolutions": {
+        "25": 3.0,
+        "50": 5.0
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 768,
+      "blaze_wavelengths": [
+        420
+      ],
+      "bandwidth_nm": 370,
+      "selectable_range": [
+        180,
+        550
+      ],
+      "slit_resolutions": {
+        "25": 2.7,
+        "50": 4.5
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 900,
+      "blaze_wavelengths": [
+        200
+      ],
+      "bandwidth_nm": 290,
+      "selectable_range": [
+        180,
+        470
+      ],
+      "slit_resolutions": {
+        "25": 2.3,
+        "50": 3.9
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 1000,
+      "blaze_wavelengths": [
+        250
+      ],
+      "bandwidth_nm": 250,
+      "selectable_range": [
+        180,
+        430
+      ],
+      "slit_resolutions": {
+        "25": 2.1,
+        "50": 3.5
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "SB"
+      ],
+      "model": "SB4134",
+      "grating_grooves": 1200,
+      "blaze_wavelengths": [
+        200
+      ],
+      "bandwidth_nm": 170,
+      "selectable_range": [
+        180,
+        350
+      ],
+      "slit_resolutions": {
+        "25": 1.7,
+        "50": 2.9
+      },
+      "evolve_names": [
+        "SilverBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "MR"
+      ],
+      "model": "MR1080",
+      "grating_grooves": 1500,
+      "blaze_wavelengths": [
+        930
+      ],
+      "bandwidth_nm": 140,
+      "selectable_range": [
+        830,
+        970
+      ],
+      "slit_resolutions": {
+        "5": 0.09,
+        "25": 0.2
+      },
+      "evolve_names": [
+        "Merak"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "DF"
+      ],
+      "model": "DF1514",
+      "grating_grooves": 300,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "25": 10.5
+      },
+      "evolve_names": [
+        "Dragonfly"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "RB"
+      ],
+      "model": "RB4524",
+      "grating_grooves": 293.53,
+      "blaze_wavelengths": [
+        1300
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "50": 10.4,
+        "100": 18.2,
+        "200": 30.3
+      },
+      "evolve_names": [
+        "RedBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "RB"
+      ],
+      "model": "RB4564",
+      "grating_grooves": 293.53,
+      "blaze_wavelengths": [
+        1300
+      ],
+      "bandwidth_nm": 800,
+      "selectable_range": [
+        900,
+        1700
+      ],
+      "slit_resolutions": {
+        "25": 7.2,
+        "50": 10.4,
+        "100": 15.5,
+        "200": 30.3
+      },
+      "evolve_names": [
+        "RedBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "RB"
+      ],
+      "model": "RB4524",
+      "grating_grooves": 360,
+      "blaze_wavelengths": [
+        1000
+      ],
+      "bandwidth_nm": 500,
+      "selectable_range": [
+        900,
+        1400
+      ],
+      "slit_resolutions": {
+        "25": 6.1
+      },
+      "evolve_names": [
+        "RedBullet"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD1050",
+      "grating_grooves": 2400,
+      "blaze_wavelengths": [
+        300
+      ],
+      "bandwidth_nm": 30,
+      "selectable_range": [
+        535,
+        565
+      ],
+      "slit_resolutions": {
+        "25": 0.12
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD1050",
+      "grating_grooves": 1000,
+      "blaze_wavelengths": [
+        900
+      ],
+      "bandwidth_nm": 193,
+      "selectable_range": [
+        625,
+        818
+      ],
+      "slit_resolutions": {
+        "25": 0.35
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD1080",
+      "grating_grooves": 1500,
+      "blaze_wavelengths": [
+        600
+      ],
+      "bandwidth_nm": 76,
+      "selectable_range": [
+        802,
+        878
+      ],
+      "slit_resolutions": {
+        "5": 0.07
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD1080",
+      "grating_grooves": 1500,
+      "blaze_wavelengths": [
+        600
+      ],
+      "bandwidth_nm": 110,
+      "selectable_range": [
+        548,
+        658
+      ],
+      "slit_resolutions": {
+        "10": 0.1,
+        "25": 0.2
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD1080",
+      "grating_grooves": 1500,
+      "blaze_wavelengths": [
+        600
+      ],
+      "bandwidth_nm": 115,
+      "selectable_range": [
+        535,
+        650
+      ],
+      "slit_resolutions": {
+        "10": 0.1
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD2570",
+      "grating_grooves": 830,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 56,
+      "selectable_range": [
+        1522,
+        1578
+      ],
+      "slit_resolutions": {
+        "25": 0.2
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    },
+    {
+      "platforms": [
+        "PD"
+      ],
+      "model": "PD2570",
+      "grating_grooves": 750,
+      "blaze_wavelengths": [
+        1200
+      ],
+      "bandwidth_nm": 80,
+      "selectable_range": [
+        1270,
+        1350
+      ],
+      "slit_resolutions": {
+        "25": 0.3
+      },
+      "evolve_names": [
+        "Phenom"
+      ],
+      "is_evolve": true
+    }
+  ],
+  "naming_records": [
+    {
+      "code": "V",
+      "wl_min": 380,
+      "wl_max": 780,
+      "wl_range_str": "380-780nm",
+      "platforms_raw": "UM, SD, SP, \nMS, SU, SH",
+      "platform_codes": [
+        "UM",
+        "SD",
+        "SP",
+        "MS",
+        "SU",
+        "SH"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "VA",
+      "wl_min": 380,
+      "wl_max": 780,
+      "wl_range_str": "380-780nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500nm",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "VB",
+      "wl_min": 380,
+      "wl_max": 780,
+      "wl_range_str": "380-780nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V1",
+      "wl_min": 300,
+      "wl_max": 800,
+      "wl_range_str": "300-800nm",
+      "platforms_raw": "SD, MS",
+      "platform_codes": [
+        "SD",
+        "MS"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "V2",
+      "wl_min": 330,
+      "wl_max": 850,
+      "wl_range_str": "330-850nm",
+      "platforms_raw": "UM, SE, SU, AA , AL",
+      "platform_codes": [
+        "UM",
+        "SE",
+        "SU",
+        "AA",
+        "AL"
+      ],
+      "grating_spec_str": "600g 500nm(for SE)",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "V3",
+      "wl_min": 400,
+      "wl_max": 500,
+      "wl_range_str": "400-500nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "2400g VIS(OM 2400 400)",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "V4",
+      "wl_min": 300,
+      "wl_max": 850,
+      "wl_range_str": "300-850nm",
+      "platforms_raw": "SE, EE, HB",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "HB"
+      ],
+      "grating_spec_str": "300g 300nm",
+      "grooves": 300.0,
+      "blaze": 300
+    },
+    {
+      "code": "V4A",
+      "wl_min": 300,
+      "wl_max": 850,
+      "wl_range_str": "300-850nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 300nm",
+      "grooves": 600.0,
+      "blaze": 300
+    },
+    {
+      "code": "V4B",
+      "wl_min": 300,
+      "wl_max": 850,
+      "wl_range_str": "300-850nm",
+      "platforms_raw": "SE, EE, HB",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "HB"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "V4C",
+      "wl_min": 300,
+      "wl_max": 850,
+      "wl_range_str": "300-850nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "300g 500nm",
+      "grooves": 300.0,
+      "blaze": 500
+    },
+    {
+      "code": "V4D",
+      "wl_min": 300,
+      "wl_max": 850,
+      "wl_range_str": "300-850nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "V4E",
+      "wl_min": 300,
+      "wl_max": 850,
+      "wl_range_str": "300-850nm",
+      "platforms_raw": "HB, PH, SB",
+      "platform_codes": [
+        "HB",
+        "PH",
+        "SB"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "V5",
+      "wl_min": 300,
+      "wl_max": 400,
+      "wl_range_str": "300-400nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "?",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "V5A",
+      "wl_min": 300,
+      "wl_max": 400,
+      "wl_range_str": "300-400nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2400g 400nm",
+      "grooves": 2400.0,
+      "blaze": 400
+    },
+    {
+      "code": "V5B",
+      "wl_min": 300,
+      "wl_max": 400,
+      "wl_range_str": "300-400nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2700g 259nm",
+      "grooves": 2700.0,
+      "blaze": 259
+    },
+    {
+      "code": "V6",
+      "wl_min": 330,
+      "wl_max": 900,
+      "wl_range_str": "330-900nm",
+      "platforms_raw": "AM",
+      "platform_codes": [
+        "AM"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "V7",
+      "wl_min": 400,
+      "wl_max": 800,
+      "wl_range_str": "400-800nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500nm",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "V7A",
+      "wl_min": 400,
+      "wl_max": 800,
+      "wl_range_str": "400-800nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V8",
+      "wl_min": 600,
+      "wl_max": 820,
+      "wl_range_str": "600-820nm",
+      "platforms_raw": "SE, EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "1200g 750nm",
+      "grooves": 1200.0,
+      "blaze": 750
+    },
+    {
+      "code": "V8A",
+      "wl_min": 600,
+      "wl_max": 820,
+      "wl_range_str": "600-820nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 600nm",
+      "grooves": 1200.0,
+      "blaze": 600
+    },
+    {
+      "code": "V9",
+      "wl_min": 350,
+      "wl_max": 750,
+      "wl_range_str": "350-750nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500nm",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "V10",
+      "wl_min": 680,
+      "wl_max": 900,
+      "wl_range_str": "680-900nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "V11",
+      "wl_min": 530,
+      "wl_max": 750,
+      "wl_range_str": "530-750nm",
+      "platforms_raw": "SE, EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "1200g 600nm",
+      "grooves": 1200.0,
+      "blaze": 600
+    },
+    {
+      "code": "V11A",
+      "wl_min": 530,
+      "wl_max": 750,
+      "wl_range_str": "530-750nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V12",
+      "wl_min": 300,
+      "wl_max": 700,
+      "wl_range_str": "300-700nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500nm",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "V13",
+      "wl_min": 570,
+      "wl_max": 880,
+      "wl_range_str": "570-880nm",
+      "platforms_raw": "EE, HB",
+      "platform_codes": [
+        "EE",
+        "HB"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "V13A",
+      "wl_min": 570,
+      "wl_max": 880,
+      "wl_range_str": "570-880nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V14",
+      "wl_min": 530,
+      "wl_max": 680,
+      "wl_range_str": "530-680nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1800g 500nm",
+      "grooves": 1800.0,
+      "blaze": 500
+    },
+    {
+      "code": "V15",
+      "wl_min": 360,
+      "wl_max": 460,
+      "wl_range_str": "360-460nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2400g VIS(OM 2400 400)",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "V16",
+      "wl_min": 410,
+      "wl_max": 510,
+      "wl_range_str": "410-510nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2400g VIS(OM 2400 400)",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "V17",
+      "wl_min": 330,
+      "wl_max": 950,
+      "wl_range_str": "330-950nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "V18",
+      "wl_min": 500,
+      "wl_max": 720,
+      "wl_range_str": "500-720nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V19",
+      "wl_min": 400,
+      "wl_max": 600,
+      "wl_range_str": "400-600nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V20",
+      "wl_min": 390,
+      "wl_max": 790,
+      "wl_range_str": "390-790nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500nm",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "V21",
+      "wl_min": 540,
+      "wl_max": 850,
+      "wl_range_str": "540-850nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V22",
+      "wl_min": 370,
+      "wl_max": 790,
+      "wl_range_str": "370-790nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500nm",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "V23",
+      "wl_min": 450,
+      "wl_max": 750,
+      "wl_range_str": "450-750nm",
+      "platforms_raw": "PH",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "300g 500nm",
+      "grooves": 300.0,
+      "blaze": 500
+    },
+    {
+      "code": "V24",
+      "wl_min": 400,
+      "wl_max": 700,
+      "wl_range_str": "400-700nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V27",
+      "wl_min": 300,
+      "wl_max": 550,
+      "wl_range_str": "300-550nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1200g 200nm",
+      "grooves": 1200.0,
+      "blaze": 200
+    },
+    {
+      "code": "V28",
+      "wl_min": 380,
+      "wl_max": 800,
+      "wl_range_str": "380-800nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "V29",
+      "wl_min": 630,
+      "wl_max": 850,
+      "wl_range_str": "630-850nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "V31",
+      "wl_min": 540,
+      "wl_max": 685,
+      "wl_range_str": "540-685nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1800g 500nm",
+      "grooves": 1800.0,
+      "blaze": 500
+    },
+    {
+      "code": "V33",
+      "wl_min": 450,
+      "wl_max": 700,
+      "wl_range_str": "450-700nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "V34",
+      "wl_min": 650,
+      "wl_max": 820,
+      "wl_range_str": "650-820nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1500g 600nm",
+      "grooves": 1500.0,
+      "blaze": 600
+    },
+    {
+      "code": "V35",
+      "wl_min": 530,
+      "wl_max": 800,
+      "wl_range_str": "530-800nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V37",
+      "wl_min": 500,
+      "wl_max": 800,
+      "wl_range_str": "500-800nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V38",
+      "wl_min": 300,
+      "wl_max": 420,
+      "wl_range_str": "300-420nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2400g 400nm",
+      "grooves": 2400.0,
+      "blaze": 400
+    },
+    {
+      "code": "V39",
+      "wl_min": 650,
+      "wl_max": 800,
+      "wl_range_str": "650-800nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1500g 600nm",
+      "grooves": 1500.0,
+      "blaze": 600
+    },
+    {
+      "code": "V40",
+      "wl_min": 400,
+      "wl_max": 570,
+      "wl_range_str": "400-570nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 500nm",
+      "grooves": 1800.0,
+      "blaze": 500
+    },
+    {
+      "code": "V41",
+      "wl_min": 350,
+      "wl_max": 650,
+      "wl_range_str": "350-650nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V42(-SM)",
+      "wl_min": 320,
+      "wl_max": 600,
+      "wl_range_str": "320-600nm",
+      "platforms_raw": "PH(S15739, S15796)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V43",
+      "wl_min": 640,
+      "wl_max": 860,
+      "wl_range_str": "640-860nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "V44",
+      "wl_min": 365,
+      "wl_max": 545,
+      "wl_range_str": "365-545nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 500nm",
+      "grooves": 1800.0,
+      "blaze": 500
+    },
+    {
+      "code": "V45",
+      "wl_min": 390,
+      "wl_max": 610,
+      "wl_range_str": "390-610nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 500nm",
+      "grooves": 1200.0,
+      "blaze": 500
+    },
+    {
+      "code": "V46",
+      "wl_min": 500,
+      "wl_max": 900,
+      "wl_range_str": "500-900nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "900g 550nm",
+      "grooves": 900.0,
+      "blaze": 550
+    },
+    {
+      "code": "V47",
+      "wl_min": 550,
+      "wl_max": 690,
+      "wl_range_str": "550-690 nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1800g 500nm",
+      "grooves": 1800.0,
+      "blaze": 500
+    },
+    {
+      "code": "V25",
+      "wl_min": 535,
+      "wl_max": 650,
+      "wl_range_str": "535-650nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1500g 600nm",
+      "grooves": 1500.0,
+      "blaze": 600
+    },
+    {
+      "code": "V26",
+      "wl_min": 535,
+      "wl_max": 565,
+      "wl_range_str": "535-565nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "2400g 300nm",
+      "grooves": 2400.0,
+      "blaze": 300
+    },
+    {
+      "code": "V30",
+      "wl_min": 548,
+      "wl_max": 658,
+      "wl_range_str": "548-658nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1500g 600nm",
+      "grooves": 1500.0,
+      "blaze": 600
+    },
+    {
+      "code": "V32",
+      "wl_min": 625,
+      "wl_max": 818,
+      "wl_range_str": "625-818nm",
+      "platforms_raw": "PD, MG",
+      "platform_codes": [
+        "PD",
+        "MG"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "V36",
+      "wl_min": 535,
+      "wl_max": 685,
+      "wl_range_str": "535-685nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "VT1",
+      "wl_min": 380,
+      "wl_max": 445,
+      "wl_range_str": "380-445nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "2400g 300nm",
+      "grooves": 2400.0,
+      "blaze": 300
+    },
+    {
+      "code": "VT2",
+      "wl_min": 560,
+      "wl_max": 635,
+      "wl_range_str": "560-635nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "1800g 500nm",
+      "grooves": 1800.0,
+      "blaze": 500
+    },
+    {
+      "code": "VT3",
+      "wl_min": 550,
+      "wl_max": 585,
+      "wl_range_str": "550-585nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "2400g 300nm",
+      "grooves": 2400.0,
+      "blaze": 300
+    },
+    {
+      "code": "VT4",
+      "wl_min": 650,
+      "wl_max": 800,
+      "wl_range_str": "650-800nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "VT4A",
+      "wl_min": 650,
+      "wl_max": 800,
+      "wl_range_str": "650-800nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "1100g900nm",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "UVN",
+      "wl_min": 300,
+      "wl_max": 1000,
+      "wl_range_str": "300-1000nm",
+      "platforms_raw": "SD, SP, MS",
+      "platform_codes": [
+        "SD",
+        "SP",
+        "MS"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "DUV",
+      "wl_min": 200,
+      "wl_max": 800,
+      "wl_range_str": "200-800nm",
+      "platforms_raw": "SD, SP, MS, SU",
+      "platform_codes": [
+        "SD",
+        "SP",
+        "MS",
+        "SU"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "DUV1",
+      "wl_min": 200,
+      "wl_max": 900,
+      "wl_range_str": "200-900nm",
+      "platforms_raw": "AM",
+      "platform_codes": [
+        "AM"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "DUV1A",
+      "wl_min": 200,
+      "wl_max": 900,
+      "wl_range_str": "200-900nm",
+      "platforms_raw": "BL",
+      "platform_codes": [
+        "BL"
+      ],
+      "grating_spec_str": "300g 230nm",
+      "grooves": 300.0,
+      "blaze": 230
+    },
+    {
+      "code": "DUV2",
+      "wl_min": 200,
+      "wl_max": 850,
+      "wl_range_str": "200-850nm",
+      "platforms_raw": "PH\nSB",
+      "platform_codes": [
+        "PH",
+        "SB"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "DUV2A\n(\u5149\u67f5\u6548\u7387\u4e0d\u597d\uff0c\u4e0d\u518d\u751f\u7522)",
+      "wl_min": 200,
+      "wl_max": 850,
+      "wl_range_str": "200-850nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "500g 240nm",
+      "grooves": 500.0,
+      "blaze": 240
+    },
+    {
+      "code": "DUV2B",
+      "wl_min": 200,
+      "wl_max": 850,
+      "wl_range_str": "200-850nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "DUV2C",
+      "wl_min": 200,
+      "wl_max": 850,
+      "wl_range_str": "200-850nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "DUV2D",
+      "wl_min": 200,
+      "wl_max": 850,
+      "wl_range_str": "200-850nm",
+      "platforms_raw": "PH(S15739, S15796)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "300g 300nm",
+      "grooves": 300.0,
+      "blaze": 300
+    },
+    {
+      "code": "DUV3",
+      "wl_min": 200,
+      "wl_max": 500,
+      "wl_range_str": "200-500nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 300nm",
+      "grooves": 1200.0,
+      "blaze": 300
+    },
+    {
+      "code": "DUV4",
+      "wl_min": 250,
+      "wl_max": 550,
+      "wl_range_str": "250-550nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 300nm",
+      "grooves": 1200.0,
+      "blaze": 300
+    },
+    {
+      "code": "DUV5",
+      "wl_min": 200,
+      "wl_max": 870,
+      "wl_range_str": "200-870nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 300nm",
+      "grooves": 600.0,
+      "blaze": 300
+    },
+    {
+      "code": "DUV5A",
+      "wl_min": 200,
+      "wl_max": 870,
+      "wl_range_str": "200-870nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "DUV6",
+      "wl_min": 200,
+      "wl_max": 600,
+      "wl_range_str": "200-600nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1000g 250nm",
+      "grooves": 1000.0,
+      "blaze": 250
+    },
+    {
+      "code": "DUV7",
+      "wl_min": 200,
+      "wl_max": 400,
+      "wl_range_str": "200-400nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "DUV8",
+      "wl_min": 270,
+      "wl_max": 410,
+      "wl_range_str": "270-410nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2400g 240nm",
+      "grooves": 2400.0,
+      "blaze": 240
+    },
+    {
+      "code": "DUV9",
+      "wl_min": 200,
+      "wl_max": 300,
+      "wl_range_str": "200-300nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "2700g 259nm",
+      "grooves": 2700.0,
+      "blaze": 259
+    },
+    {
+      "code": "DUV10",
+      "wl_min": 200,
+      "wl_max": 530,
+      "wl_range_str": "200-530nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 200nm",
+      "grooves": 1200.0,
+      "blaze": 200
+    },
+    {
+      "code": "DUV11",
+      "wl_min": 290,
+      "wl_max": 480,
+      "wl_range_str": "290-480nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV",
+      "wl_min": 180,
+      "wl_max": 850,
+      "wl_range_str": "180-850nm",
+      "platforms_raw": "SE, EE,",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUVA",
+      "wl_min": 180,
+      "wl_max": 850,
+      "wl_range_str": "180-850nm",
+      "platforms_raw": "HB, SB",
+      "platform_codes": [
+        "HB",
+        "SB"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "FUVB",
+      "wl_min": 180,
+      "wl_max": 850,
+      "wl_range_str": "180-850nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "500g 240nm",
+      "grooves": 500.0,
+      "blaze": 240
+    },
+    {
+      "code": "FUV1",
+      "wl_min": 180,
+      "wl_max": 400,
+      "wl_range_str": "180-400nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 300nm",
+      "grooves": 1200.0,
+      "blaze": 300
+    },
+    {
+      "code": "FUV1A",
+      "wl_min": 180,
+      "wl_max": 400,
+      "wl_range_str": "180-400nm",
+      "platforms_raw": "SE, HB",
+      "platform_codes": [
+        "SE",
+        "HB"
+      ],
+      "grating_spec_str": "1200g 200nm",
+      "grooves": 1200.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV1B",
+      "wl_min": 180,
+      "wl_max": 400,
+      "wl_range_str": "180-400nm",
+      "platforms_raw": "(N/A)",
+      "platform_codes": [],
+      "grating_spec_str": "500g 300nm",
+      "grooves": 500.0,
+      "blaze": 300
+    },
+    {
+      "code": "FUV2",
+      "wl_min": 180,
+      "wl_max": 500,
+      "wl_range_str": "180-500nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 300nm",
+      "grooves": 1200.0,
+      "blaze": 300
+    },
+    {
+      "code": "FUV2A",
+      "wl_min": 180,
+      "wl_max": 500,
+      "wl_range_str": "180-500nm",
+      "platforms_raw": "SE, HB",
+      "platform_codes": [
+        "SE",
+        "HB"
+      ],
+      "grating_spec_str": "1200g 200nm",
+      "grooves": 1200.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV2B",
+      "wl_min": 180,
+      "wl_max": 500,
+      "wl_range_str": "180-500nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1200g 250nm",
+      "grooves": 1200.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV3",
+      "wl_min": 190,
+      "wl_max": 340,
+      "wl_range_str": "190-340nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV3A",
+      "wl_min": 190,
+      "wl_max": 340,
+      "wl_range_str": "190-340nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 180nm",
+      "grooves": 1800.0,
+      "blaze": 180
+    },
+    {
+      "code": "FUV4",
+      "wl_min": 180,
+      "wl_max": 360,
+      "wl_range_str": "180-360nm",
+      "platforms_raw": "SE, EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV4A",
+      "wl_min": 180,
+      "wl_max": 360,
+      "wl_range_str": "180-360nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 180nm",
+      "grooves": 1800.0,
+      "blaze": 180
+    },
+    {
+      "code": "FUV5",
+      "wl_min": 190,
+      "wl_max": 380,
+      "wl_range_str": "190-380nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV6",
+      "wl_min": 220,
+      "wl_max": 420,
+      "wl_range_str": "220-420nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV7",
+      "wl_min": 190,
+      "wl_max": 430,
+      "wl_range_str": "190-430nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1600g 200nm",
+      "grooves": 1600.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV8",
+      "wl_min": 180,
+      "wl_max": 330,
+      "wl_range_str": "180-330nm",
+      "platforms_raw": "SE, HB",
+      "platform_codes": [
+        "SE",
+        "HB"
+      ],
+      "grating_spec_str": "2400g 240nm",
+      "grooves": 2400.0,
+      "blaze": 240
+    },
+    {
+      "code": "FUV9",
+      "wl_min": 190,
+      "wl_max": 450,
+      "wl_range_str": "190-450nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1400g 230nm",
+      "grooves": 1400.0,
+      "blaze": 230
+    },
+    {
+      "code": "FUV10",
+      "wl_min": 180,
+      "wl_max": 480,
+      "wl_range_str": "180-480nm",
+      "platforms_raw": "SE, HB",
+      "platform_codes": [
+        "SE",
+        "HB"
+      ],
+      "grating_spec_str": "1200g 200nm",
+      "grooves": 1200.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV11",
+      "wl_min": 180,
+      "wl_max": 390,
+      "wl_range_str": "180-390nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV12",
+      "wl_min": 190,
+      "wl_max": 400,
+      "wl_range_str": "190-400nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1800g 250nm",
+      "grooves": 1800.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV13",
+      "wl_min": 185,
+      "wl_max": 425,
+      "wl_range_str": "185-425nm",
+      "platforms_raw": "NV",
+      "platform_codes": [
+        "NV"
+      ],
+      "grating_spec_str": "1600g 200nm",
+      "grooves": 1600.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV14",
+      "wl_min": 180,
+      "wl_max": 420,
+      "wl_range_str": "180-420nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1600g 200nm",
+      "grooves": 1600.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV15",
+      "wl_min": 180,
+      "wl_max": 470,
+      "wl_range_str": "180-470nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "900g 200nm",
+      "grooves": 900.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV17",
+      "wl_min": 190,
+      "wl_max": 860,
+      "wl_range_str": "190-860nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV18",
+      "wl_min": 200,
+      "wl_max": 350,
+      "wl_range_str": "200-350nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "2400g 240nm",
+      "grooves": 2400.0,
+      "blaze": 240
+    },
+    {
+      "code": "FUV19",
+      "wl_min": 180,
+      "wl_max": 700,
+      "wl_range_str": "180-700nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV20",
+      "wl_min": 180,
+      "wl_max": 350,
+      "wl_range_str": "180-350nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "1200g 200m",
+      "grooves": 1200.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUV21",
+      "wl_min": 180,
+      "wl_max": 800,
+      "wl_range_str": "180-800nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "FUV22",
+      "wl_min": 230,
+      "wl_max": 900,
+      "wl_range_str": "230-900nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV23",
+      "wl_min": 190,
+      "wl_max": 850,
+      "wl_range_str": "190-850nm",
+      "platforms_raw": "PH(S15739, S15796)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "400g 250nm",
+      "grooves": 400.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUV24",
+      "wl_min": 180,
+      "wl_max": 450,
+      "wl_range_str": "180-450nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1400g 230nm",
+      "grooves": 1400.0,
+      "blaze": 230
+    },
+    {
+      "code": "FUV25(-SM)",
+      "wl_min": 180,
+      "wl_max": 600,
+      "wl_range_str": "180-600nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "700g 530nm",
+      "grooves": 700.0,
+      "blaze": 530
+    },
+    {
+      "code": "VNIR",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE, EE, HB, AA,",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "HB",
+        "AA"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIRA",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 250nm",
+      "grooves": 600.0,
+      "blaze": 250
+    },
+    {
+      "code": "VNIRB",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 400nm",
+      "grooves": 600.0,
+      "blaze": 400
+    },
+    {
+      "code": "VNIRC",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 800nm",
+      "grooves": 600.0,
+      "blaze": 800
+    },
+    {
+      "code": "VNIRD",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "VNIRE",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIRF(-MEQ)",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIRG",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE(sensor563)",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "400g 550nm",
+      "grooves": 400.0,
+      "blaze": 550
+    },
+    {
+      "code": "VNIR1",
+      "wl_min": 400,
+      "wl_max": 1070,
+      "wl_range_str": "400-1070nm",
+      "platforms_raw": "SE, EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR1A",
+      "wl_min": 400,
+      "wl_max": 1070,
+      "wl_range_str": "400-1070nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "600g 800nm",
+      "grooves": 600.0,
+      "blaze": 800
+    },
+    {
+      "code": "VNIR2",
+      "wl_min": 350,
+      "wl_max": 1020,
+      "wl_range_str": "350-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIR4",
+      "wl_min": 450,
+      "wl_max": 1100,
+      "wl_range_str": "450-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR5",
+      "wl_min": 300,
+      "wl_max": 1200,
+      "wl_range_str": "300-1200nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "300g 422nm",
+      "grooves": 300.0,
+      "blaze": 422
+    },
+    {
+      "code": "VNIR6",
+      "wl_min": 330,
+      "wl_max": 1050,
+      "wl_range_str": "330-1050nm",
+      "platforms_raw": "PH(sensor563)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "VNIR6A",
+      "wl_min": 330,
+      "wl_max": 1050,
+      "wl_range_str": "330-1050nm",
+      "platforms_raw": "PH(sensor563)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "500g 770nm",
+      "grooves": 500.0,
+      "blaze": 770
+    },
+    {
+      "code": "VNIR6B",
+      "wl_min": 330,
+      "wl_max": 1050,
+      "wl_range_str": "330-1050nm",
+      "platforms_raw": "SE(sensor563)",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "400g 550nm",
+      "grooves": 400.0,
+      "blaze": 550
+    },
+    {
+      "code": "VNIR6C",
+      "wl_min": 330,
+      "wl_max": 1050,
+      "wl_range_str": "330-1050nm",
+      "platforms_raw": "SE(sensor563)",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "400g 250nm",
+      "grooves": 400.0,
+      "blaze": 250
+    },
+    {
+      "code": "VNIR7",
+      "wl_min": 300,
+      "wl_max": 1100,
+      "wl_range_str": "300-1100nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "300g 300nm",
+      "grooves": 300.0,
+      "blaze": 300
+    },
+    {
+      "code": "VNIR7A",
+      "wl_min": 300,
+      "wl_max": 1100,
+      "wl_range_str": "300-1100nm",
+      "platforms_raw": "EE,SE",
+      "platform_codes": [
+        "EE",
+        "SE"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "VNIR7B",
+      "wl_min": 300,
+      "wl_max": 1100,
+      "wl_range_str": "300-1100nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "300g 500nm",
+      "grooves": 300.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIR8",
+      "wl_min": 500,
+      "wl_max": 900,
+      "wl_range_str": "500-900nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "900g 500mn",
+      "grooves": 900.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIR9",
+      "wl_min": 600,
+      "wl_max": 1000,
+      "wl_range_str": "600-1000nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "830g 800nm",
+      "grooves": 830.0,
+      "blaze": 800
+    },
+    {
+      "code": "VNIR10",
+      "wl_min": 445,
+      "wl_max": 1100,
+      "wl_range_str": "445-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 400nm",
+      "grooves": 600.0,
+      "blaze": 400
+    },
+    {
+      "code": "VNIR10A",
+      "wl_min": 445,
+      "wl_max": 1100,
+      "wl_range_str": "445-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR10B",
+      "wl_min": 445,
+      "wl_max": 1100,
+      "wl_range_str": "445-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIR11",
+      "wl_min": 330,
+      "wl_max": 950,
+      "wl_range_str": "330-950nm",
+      "platforms_raw": "CR",
+      "platform_codes": [
+        "CR"
+      ],
+      "grating_spec_str": "150g 200-1200nm",
+      "grooves": 150.0,
+      "blaze": 200
+    },
+    {
+      "code": "VNIR12",
+      "wl_min": 430,
+      "wl_max": 1050,
+      "wl_range_str": "430-1050nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR13",
+      "wl_min": 650,
+      "wl_max": 1200,
+      "wl_range_str": "650-1200nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR14",
+      "wl_min": 300,
+      "wl_max": 970,
+      "wl_range_str": "300-970nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 400nm",
+      "grooves": 600.0,
+      "blaze": 400
+    },
+    {
+      "code": "VNIR14A",
+      "wl_min": 300,
+      "wl_max": 970,
+      "wl_range_str": "300-970nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "600g 300nm",
+      "grooves": 600.0,
+      "blaze": 300
+    },
+    {
+      "code": "VNIR15",
+      "wl_min": 580,
+      "wl_max": 1100,
+      "wl_range_str": "580-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR15A",
+      "wl_min": 580,
+      "wl_max": 1100,
+      "wl_range_str": "580-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 800nm",
+      "grooves": 600.0,
+      "blaze": 800
+    },
+    {
+      "code": "VNIR16",
+      "wl_min": 500,
+      "wl_max": 1000,
+      "wl_range_str": "500-1000nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 800nm",
+      "grooves": 600.0,
+      "blaze": 800
+    },
+    {
+      "code": "VNIR17",
+      "wl_min": 400,
+      "wl_max": 1050,
+      "wl_range_str": "400-1050nm",
+      "platforms_raw": "PH(sensor563)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "VNIR17A",
+      "wl_min": 400,
+      "wl_max": 1050,
+      "wl_range_str": "400-1050nm",
+      "platforms_raw": "PH(sensor563)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "500g 770nm",
+      "grooves": 500.0,
+      "blaze": 770
+    },
+    {
+      "code": "VNIR18",
+      "wl_min": 430,
+      "wl_max": 1100,
+      "wl_range_str": "430-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR19",
+      "wl_min": 500,
+      "wl_max": 1100,
+      "wl_range_str": "500-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "VNIR19A",
+      "wl_min": 500,
+      "wl_max": 1100,
+      "wl_range_str": "500-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIR20",
+      "wl_min": 400,
+      "wl_max": 1000,
+      "wl_range_str": "400-1000nm",
+      "platforms_raw": "PH(S15739, S15796)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "400g 550nm",
+      "grooves": 400.0,
+      "blaze": 550
+    },
+    {
+      "code": "VNIR21",
+      "wl_min": 380,
+      "wl_max": 1050,
+      "wl_range_str": "380-1050nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 500nm",
+      "grooves": 600.0,
+      "blaze": 500
+    },
+    {
+      "code": "VNIR21A",
+      "wl_min": 380,
+      "wl_max": 1050,
+      "wl_range_str": "380-1050nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 400nm",
+      "grooves": 600.0,
+      "blaze": 400
+    },
+    {
+      "code": "VNIR22",
+      "wl_min": 600,
+      "wl_max": 1070,
+      "wl_range_str": "600-1070nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "400g 850nm",
+      "grooves": 400.0,
+      "blaze": 850
+    },
+    {
+      "code": "VNIR23",
+      "wl_min": 300,
+      "wl_max": 1000,
+      "wl_range_str": "300-1000nm",
+      "platforms_raw": "EE(S7031)",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "VNIR24",
+      "wl_min": 325,
+      "wl_max": 1100,
+      "wl_range_str": "325-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "DUVN",
+      "wl_min": 200,
+      "wl_max": 1025,
+      "wl_range_str": "200-1025nm",
+      "platforms_raw": "SE, EE, AA, PEM, HB",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "AA",
+        "PE",
+        "HB"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "DUVNA",
+      "wl_min": 200,
+      "wl_max": 1025,
+      "wl_range_str": "200-1025nm",
+      "platforms_raw": "SE, HB",
+      "platform_codes": [
+        "SE",
+        "HB"
+      ],
+      "grating_spec_str": "500g 770nm",
+      "grooves": 500.0,
+      "blaze": 770
+    },
+    {
+      "code": "DUVN1",
+      "wl_min": 275,
+      "wl_max": 1100,
+      "wl_range_str": "275-1100nm",
+      "platforms_raw": "SE,",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "500g 770nm",
+      "grooves": 500.0,
+      "blaze": 770
+    },
+    {
+      "code": "DUVN1A",
+      "wl_min": 275,
+      "wl_max": 1100,
+      "wl_range_str": "275-1100nm",
+      "platforms_raw": "SE,",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "DUVN2",
+      "wl_min": 200,
+      "wl_max": 1050,
+      "wl_range_str": "200-1050nm",
+      "platforms_raw": "PH(S13014)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "150g 250nm",
+      "grooves": 150.0,
+      "blaze": 250
+    },
+    {
+      "code": "DUVN2A",
+      "wl_min": 200,
+      "wl_max": 1050,
+      "wl_range_str": "200-1050nm",
+      "platforms_raw": "PH(S13014)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "150g 300nm",
+      "grooves": 150.0,
+      "blaze": 300
+    },
+    {
+      "code": "DUVN2B",
+      "wl_min": 200,
+      "wl_max": 1050,
+      "wl_range_str": "200-1050nm",
+      "platforms_raw": "PH(S15739, S15796)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "300g 300nm",
+      "grooves": 300.0,
+      "blaze": 300
+    },
+    {
+      "code": "DUVN3",
+      "wl_min": 230,
+      "wl_max": 1055,
+      "wl_range_str": "230-1055nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "500g 560nm",
+      "grooves": 500.0,
+      "blaze": 560
+    },
+    {
+      "code": "DUVN4",
+      "wl_min": 285,
+      "wl_max": 1100,
+      "wl_range_str": "285-1100nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "DUVN5",
+      "wl_min": 250,
+      "wl_max": 1070,
+      "wl_range_str": "250-1070nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "400g 550nm",
+      "grooves": 400.0,
+      "blaze": 550
+    },
+    {
+      "code": "DUVN5A",
+      "wl_min": 250,
+      "wl_max": 1070,
+      "wl_range_str": "250-1070nm",
+      "platforms_raw": "SB",
+      "platform_codes": [
+        "SB"
+      ],
+      "grating_spec_str": "400g 850nm",
+      "grooves": 400.0,
+      "blaze": 850
+    },
+    {
+      "code": "DUVN6",
+      "wl_min": 180,
+      "wl_max": 1010,
+      "wl_range_str": "180-1010nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "FUVN",
+      "wl_min": 180,
+      "wl_max": 1100,
+      "wl_range_str": "180-1100nm",
+      "platforms_raw": "SE, EE, HB, PH(S15739, S15796)",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "HB",
+        "PH"
+      ],
+      "grating_spec_str": "300g 300nm",
+      "grooves": 300.0,
+      "blaze": 300
+    },
+    {
+      "code": "FUVNA",
+      "wl_min": 180,
+      "wl_max": 1100,
+      "wl_range_str": "180-1100nm",
+      "platforms_raw": "SE, HB,EE",
+      "platform_codes": [
+        "SE",
+        "HB",
+        "EE"
+      ],
+      "grating_spec_str": "300g 230nm",
+      "grooves": 300.0,
+      "blaze": 230
+    },
+    {
+      "code": "FUVNB",
+      "wl_min": 180,
+      "wl_max": 1100,
+      "wl_range_str": "180-1100nm",
+      "platforms_raw": "SE,EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "400g 250nm",
+      "grooves": 400.0,
+      "blaze": 250
+    },
+    {
+      "code": "FUVNC",
+      "wl_min": 180,
+      "wl_max": 1100,
+      "wl_range_str": "180-1100nm",
+      "platforms_raw": "SE,EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "300g 200nm",
+      "grooves": 300.0,
+      "blaze": 200
+    },
+    {
+      "code": "FUVN2",
+      "wl_min": 180,
+      "wl_max": 1100,
+      "wl_range_str": "180-1100nm",
+      "platforms_raw": "SE, EE",
+      "platform_codes": [
+        "SE",
+        "EE"
+      ],
+      "grating_spec_str": "300g 280/580nm",
+      "grooves": 300.0,
+      "blaze": 280
+    },
+    {
+      "code": "FUVN3",
+      "wl_min": 190,
+      "wl_max": 1015,
+      "wl_range_str": "190-1015nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "500g 330nm",
+      "grooves": 500.0,
+      "blaze": 330
+    },
+    {
+      "code": "NIR1",
+      "wl_min": 790,
+      "wl_max": 1010,
+      "wl_range_str": "790-1010nm",
+      "platforms_raw": "SE, EE, HB",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "HB"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIR1R",
+      "wl_min": 790,
+      "wl_max": 1010,
+      "wl_range_str": "790-1010nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIR2",
+      "wl_min": 780,
+      "wl_max": 1000,
+      "wl_range_str": "780-1000nm",
+      "platforms_raw": "SE, HB, SS",
+      "platform_codes": [
+        "SE",
+        "HB",
+        "SS"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIR3",
+      "wl_min": 790,
+      "wl_max": 1080,
+      "wl_range_str": "790-1080nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIR4",
+      "wl_min": 790,
+      "wl_max": 1090,
+      "wl_range_str": "790-1090nm",
+      "platforms_raw": "SE, EE, HB",
+      "platform_codes": [
+        "SE",
+        "EE",
+        "HB"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIR4R",
+      "wl_min": 790,
+      "wl_max": 1090,
+      "wl_range_str": "790-1090nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIR5",
+      "wl_min": 795,
+      "wl_max": 1020,
+      "wl_range_str": "795-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIR6",
+      "wl_min": 700,
+      "wl_max": 1100,
+      "wl_range_str": "700-1100nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "830g 900nm",
+      "grooves": 830.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIR7",
+      "wl_min": 800,
+      "wl_max": 1020,
+      "wl_range_str": "800-1020nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIR8",
+      "wl_min": 800,
+      "wl_max": 1100,
+      "wl_range_str": "800-1100nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIR9",
+      "wl_min": 840,
+      "wl_max": 1060,
+      "wl_range_str": "840-1060nm",
+      "platforms_raw": "HB",
+      "platform_codes": [
+        "HB"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIR10",
+      "wl_min": 800,
+      "wl_max": 1100,
+      "wl_range_str": "800-1100nm",
+      "platforms_raw": "EE",
+      "platform_codes": [
+        "EE"
+      ],
+      "grating_spec_str": "950g1000nm",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "NIR11",
+      "wl_min": 600,
+      "wl_max": 1000,
+      "wl_range_str": "600-1000nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "830g 900nm",
+      "grooves": 830.0,
+      "blaze": 900
+    },
+    {
+      "code": "VV1",
+      "wl_min": 730,
+      "wl_max": 800,
+      "wl_range_str": "730-800nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1350g 650nm",
+      "grooves": 1350.0,
+      "blaze": 650
+    },
+    {
+      "code": "NIRV1",
+      "wl_min": 835,
+      "wl_max": 955,
+      "wl_range_str": "835-955nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIRV2",
+      "wl_min": 810,
+      "wl_max": 875,
+      "wl_range_str": "810-875nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1350g 650nm",
+      "grooves": 1350.0,
+      "blaze": 650
+    },
+    {
+      "code": "NIRV3",
+      "wl_min": 920,
+      "wl_max": 970,
+      "wl_range_str": "920-970nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1350g 650nm",
+      "grooves": 1350.0,
+      "blaze": 650
+    },
+    {
+      "code": "NIRV4",
+      "wl_min": null,
+      "wl_max": null,
+      "wl_range_str": "(TBA)",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1500g 600nm",
+      "grooves": 1500.0,
+      "blaze": 600
+    },
+    {
+      "code": "NIRV5",
+      "wl_min": 845,
+      "wl_max": 945,
+      "wl_range_str": "845-945nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1100g 900nm",
+      "grooves": 1100.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIRV7",
+      "wl_min": 810,
+      "wl_max": 980,
+      "wl_range_str": "810-980nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "830g 900nm",
+      "grooves": 830.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIRV6",
+      "wl_min": 960,
+      "wl_max": 1000,
+      "wl_range_str": "960-1000nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1350g 650nm",
+      "grooves": 1350.0,
+      "blaze": 650
+    },
+    {
+      "code": "NIRV8",
+      "wl_min": 1000,
+      "wl_max": 1100,
+      "wl_range_str": "1000-1100nm",
+      "platforms_raw": "OW",
+      "platform_codes": [
+        "OW"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIRA",
+      "wl_min": 950,
+      "wl_max": 1700,
+      "wl_range_str": "950-1700nm",
+      "platforms_raw": "SW, RS, VC, CS2SW",
+      "platform_codes": [
+        "SW",
+        "RS",
+        "VC",
+        "CS",
+        "SW"
+      ],
+      "grating_spec_str": "236.8g 1350nm, Angle 9.2\u00b0",
+      "grooves": 236.8,
+      "blaze": 1350
+    },
+    {
+      "code": "NIRA1",
+      "wl_min": 950,
+      "wl_max": 1700,
+      "wl_range_str": "950-1700nm",
+      "platforms_raw": "PH-NIR (PH25x4)",
+      "platform_codes": [
+        "PH",
+        "NI",
+        "PH"
+      ],
+      "grating_spec_str": "150g 1250nm",
+      "grooves": 150.0,
+      "blaze": 1250
+    },
+    {
+      "code": "NIRA2",
+      "wl_min": 950,
+      "wl_max": 1700,
+      "wl_range_str": "950-1700nm",
+      "platforms_raw": "PH-NIR (PH25x4)",
+      "platform_codes": [
+        "PH",
+        "NI",
+        "PH"
+      ],
+      "grating_spec_str": "300g 1200nm",
+      "grooves": 300.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRA4(Give priority to NIRC4)",
+      "wl_min": 950,
+      "wl_max": 1700,
+      "wl_range_str": "950-1700nm",
+      "platforms_raw": "SW2520",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "120g 1000nm",
+      "grooves": 120.0,
+      "blaze": 1000
+    },
+    {
+      "code": "NIRB",
+      "wl_min": 900,
+      "wl_max": 1650,
+      "wl_range_str": "900-1650nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "236.8g 1350nm, Angle 9.2\u00b0",
+      "grooves": 236.8,
+      "blaze": 1350
+    },
+    {
+      "code": "NIRB1",
+      "wl_min": 900,
+      "wl_max": 1650,
+      "wl_range_str": "900-1650nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "250g 1000nm",
+      "grooves": 250.0,
+      "blaze": 1000
+    },
+    {
+      "code": "NIRB4(Give priority to NIRC4)",
+      "wl_min": 900,
+      "wl_max": 1650,
+      "wl_range_str": "900-1650nm",
+      "platforms_raw": "SW2520",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "120g 1000nm",
+      "grooves": 120.0,
+      "blaze": 1000
+    },
+    {
+      "code": "NIRC",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm",
+      "platforms_raw": "SW, AA, CS2SW",
+      "platform_codes": [
+        "SW",
+        "AA",
+        "CS",
+        "SW"
+      ],
+      "grating_spec_str": "236.8g 1350nm, Angle 9.2\u00b0",
+      "grooves": 236.8,
+      "blaze": 1350
+    },
+    {
+      "code": "NIRC1",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm",
+      "platforms_raw": "PH(G8160)",
+      "platform_codes": [
+        "PH"
+      ],
+      "grating_spec_str": "150g 1250nm",
+      "grooves": 150.0,
+      "blaze": 1250
+    },
+    {
+      "code": "NIRC2",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm",
+      "platforms_raw": "PH(G9203), DF",
+      "platform_codes": [
+        "PH",
+        "DF"
+      ],
+      "grating_spec_str": "300g 1200nm",
+      "grooves": 300.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRC3",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm",
+      "platforms_raw": "RB",
+      "platform_codes": [
+        "RB"
+      ],
+      "grating_spec_str": "293.53g 1300nm",
+      "grooves": 293.53,
+      "blaze": 1300
+    },
+    {
+      "code": "NIRC4",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm",
+      "platforms_raw": "SW2520",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "120g 1000nm",
+      "grooves": 120.0,
+      "blaze": 1000
+    },
+    {
+      "code": "NIRC5",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm(\u77ed\u6ce2\u5f37)",
+      "platforms_raw": "GB",
+      "platform_codes": [
+        "GB"
+      ],
+      "grating_spec_str": "400g 1200nm",
+      "grooves": 400.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRD",
+      "wl_min": 900,
+      "wl_max": 2500,
+      "wl_range_str": "900-2500nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "120g 1800nm",
+      "grooves": 120.0,
+      "blaze": 1800
+    },
+    {
+      "code": "NIRE",
+      "wl_min": 1090,
+      "wl_max": 1450,
+      "wl_range_str": "1090-1450nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "400g 1200nm",
+      "grooves": 400.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRF",
+      "wl_min": 1080,
+      "wl_max": 1440,
+      "wl_range_str": "1080-1440nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "400g 1200nm",
+      "grooves": 400.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRG",
+      "wl_min": 1290,
+      "wl_max": 1650,
+      "wl_range_str": "1290-1650nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "400g 1200nm",
+      "grooves": 400.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRH",
+      "wl_min": 900,
+      "wl_max": 1800,
+      "wl_range_str": "900-1800nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "200g 1050nm",
+      "grooves": 200.0,
+      "blaze": 1050
+    },
+    {
+      "code": "NIRH1",
+      "wl_min": 900,
+      "wl_max": 1800,
+      "wl_range_str": "900-1800nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "200g 1550nm",
+      "grooves": 200.0,
+      "blaze": 1550
+    },
+    {
+      "code": "NIRJ",
+      "wl_min": 950,
+      "wl_max": 1750,
+      "wl_range_str": "950-1750nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "236.8g 1350nm, Angle 9.2\u00b0",
+      "grooves": 236.8,
+      "blaze": 1350
+    },
+    {
+      "code": "NIRK",
+      "wl_min": 1450,
+      "wl_max": 1650,
+      "wl_range_str": "1450-1650nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "600g 1600nm",
+      "grooves": 600.0,
+      "blaze": 1600
+    },
+    {
+      "code": "NIRL",
+      "wl_min": 1240,
+      "wl_max": 1390,
+      "wl_range_str": "1240-1390nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "830g 1200nm",
+      "grooves": 830.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRN",
+      "wl_min": 1600,
+      "wl_max": 1950,
+      "wl_range_str": "1600-1950nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "400g 1600nm",
+      "grooves": 400.0,
+      "blaze": 1600
+    },
+    {
+      "code": "NIRP",
+      "wl_min": 1600,
+      "wl_max": 2500,
+      "wl_range_str": "1600-2500nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "200g 1550nm",
+      "grooves": 200.0,
+      "blaze": 1550
+    },
+    {
+      "code": "NIRS",
+      "wl_min": 1050,
+      "wl_max": 1650,
+      "wl_range_str": "1050-1650nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "300g 1200nm",
+      "grooves": 300.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRU",
+      "wl_min": 910,
+      "wl_max": 2200,
+      "wl_range_str": "910-2200nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "150g 1250nm",
+      "grooves": 150.0,
+      "blaze": 1250
+    },
+    {
+      "code": "NIRU1",
+      "wl_min": 910,
+      "wl_max": 2200,
+      "wl_range_str": "910-2200nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "150g 1450nm",
+      "grooves": 150.0,
+      "blaze": 1450
+    },
+    {
+      "code": "NIRV",
+      "wl_min": 1400,
+      "wl_max": 2200,
+      "wl_range_str": "1400-2200nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "120g 1550nm",
+      "grooves": 120.0,
+      "blaze": 1550
+    },
+    {
+      "code": "NIRX",
+      "wl_min": 1600,
+      "wl_max": 2200,
+      "wl_range_str": "1600-2200nm",
+      "platforms_raw": "SW",
+      "platform_codes": [
+        "SW"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "NIRM",
+      "wl_min": 1340,
+      "wl_max": 2280,
+      "wl_range_str": "1340-2280nm",
+      "platforms_raw": "DF",
+      "platform_codes": [
+        "DF"
+      ],
+      "grating_spec_str": "265g 1600nm",
+      "grooves": 265.0,
+      "blaze": 1600
+    },
+    {
+      "code": "NIRT1",
+      "wl_min": 800,
+      "wl_max": 880,
+      "wl_range_str": "800-880nm",
+      "platforms_raw": "DB",
+      "platform_codes": [
+        "DB"
+      ],
+      "grating_spec_str": "1800g 840nm",
+      "grooves": 1800.0,
+      "blaze": 840
+    },
+    {
+      "code": "NIRT1B",
+      "wl_min": 800,
+      "wl_max": 880,
+      "wl_range_str": "800-880nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIRT2",
+      "wl_min": 830,
+      "wl_max": 970,
+      "wl_range_str": "830-970nm",
+      "platforms_raw": "MR",
+      "platform_codes": [
+        "MR"
+      ],
+      "grating_spec_str": "1500g 930nm",
+      "grooves": 1500.0,
+      "blaze": 930
+    },
+    {
+      "code": "NIRT3",
+      "wl_min": 750,
+      "wl_max": 925,
+      "wl_range_str": "750-925nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIRT4",
+      "wl_min": 1270,
+      "wl_max": 1350,
+      "wl_range_str": "1270-1350nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "750g 1200nm",
+      "grooves": 750.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRT5",
+      "wl_min": 802,
+      "wl_max": 878,
+      "wl_range_str": "802-878nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1500g 600nm",
+      "grooves": 1500.0,
+      "blaze": 600
+    },
+    {
+      "code": "NIRT6",
+      "wl_min": 1522,
+      "wl_max": 1578,
+      "wl_range_str": "1522-1578nm",
+      "platforms_raw": "PD, MG",
+      "platform_codes": [
+        "PD",
+        "MG"
+      ],
+      "grating_spec_str": "830g 1200nm",
+      "grooves": 830.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRT7",
+      "wl_min": 790,
+      "wl_max": 960,
+      "wl_range_str": "790-960nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "1000g 900nm",
+      "grooves": 1000.0,
+      "blaze": 900
+    },
+    {
+      "code": "NIRT8",
+      "wl_min": 1060,
+      "wl_max": 1200,
+      "wl_range_str": "1060-1200nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "600g 1200nm",
+      "grooves": 600.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRT9",
+      "wl_min": 900,
+      "wl_max": 1050,
+      "wl_range_str": "900-1050nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "MG",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "NIRT9A",
+      "wl_min": 900,
+      "wl_max": 1050,
+      "wl_range_str": "900-1050nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "600g 1000nm",
+      "grooves": 600.0,
+      "blaze": 1000
+    },
+    {
+      "code": "NIRT10",
+      "wl_min": 780,
+      "wl_max": 900,
+      "wl_range_str": "780-900nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "1200g 850nm",
+      "grooves": 1200.0,
+      "blaze": 850
+    },
+    {
+      "code": "NIRT11",
+      "wl_min": 1500,
+      "wl_max": 1600,
+      "wl_range_str": "1500-1600nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "600g 1600nm",
+      "grooves": 600.0,
+      "blaze": 1600
+    },
+    {
+      "code": "NIRT12",
+      "wl_min": 790,
+      "wl_max": 1050,
+      "wl_range_str": "790-1050nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "750g 1200nm",
+      "grooves": 750.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRT13",
+      "wl_min": 1513,
+      "wl_max": 1587,
+      "wl_range_str": "1513-1587nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "750g 1200nm",
+      "grooves": 750.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRT14",
+      "wl_min": 820,
+      "wl_max": 860,
+      "wl_range_str": "820-860nm",
+      "platforms_raw": "AL",
+      "platform_codes": [
+        "AL"
+      ],
+      "grating_spec_str": "",
+      "grooves": null,
+      "blaze": null
+    },
+    {
+      "code": "NIRT15",
+      "wl_min": 900,
+      "wl_max": 1700,
+      "wl_range_str": "900-1700nm(Long WL Strong)",
+      "platforms_raw": "GB",
+      "platform_codes": [
+        "GB"
+      ],
+      "grating_spec_str": "400g 1600nm",
+      "grooves": 400.0,
+      "blaze": 1600
+    },
+    {
+      "code": "NIRT16",
+      "wl_min": 1130,
+      "wl_max": 2200,
+      "wl_range_str": "1130-2200nm",
+      "platforms_raw": "GB",
+      "platform_codes": [
+        "GB"
+      ],
+      "grating_spec_str": "300g 2000nm",
+      "grooves": 300.0,
+      "blaze": 2000
+    },
+    {
+      "code": "NIRT17",
+      "wl_min": 1590,
+      "wl_max": 1700,
+      "wl_range_str": "1590-1700nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "600g 1600nm",
+      "grooves": 600.0,
+      "blaze": 1600
+    },
+    {
+      "code": "NIRT18",
+      "wl_min": 1500,
+      "wl_max": 2280,
+      "wl_range_str": "1500-2280nm",
+      "platforms_raw": "DF",
+      "platform_codes": [
+        "DF"
+      ],
+      "grating_spec_str": "300g 2000nm",
+      "grooves": 300.0,
+      "blaze": 2000
+    },
+    {
+      "code": "NIRT19",
+      "wl_min": 1250,
+      "wl_max": 2050,
+      "wl_range_str": "1250-2050nm",
+      "platforms_raw": "DF1924",
+      "platform_codes": [
+        "DF"
+      ],
+      "grating_spec_str": "300g 2000nm",
+      "grooves": 300.0,
+      "blaze": 2000
+    },
+    {
+      "code": "NIRT20",
+      "wl_min": 840,
+      "wl_max": 1050,
+      "wl_range_str": "840-1050nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "830g 1200nm",
+      "grooves": 830.0,
+      "blaze": 1200
+    },
+    {
+      "code": "NIRT21",
+      "wl_min": 900,
+      "wl_max": 2200,
+      "wl_range_str": "900-2200nm",
+      "platforms_raw": "GB",
+      "platform_codes": [
+        "GB"
+      ],
+      "grating_spec_str": "236.8g 1350nm",
+      "grooves": 236.8,
+      "blaze": 1350
+    },
+    {
+      "code": "NIRT22",
+      "wl_min": 1085,
+      "wl_max": 1475,
+      "wl_range_str": "1085-1475nm",
+      "platforms_raw": "MG",
+      "platform_codes": [
+        "MG"
+      ],
+      "grating_spec_str": "250g 1000nm",
+      "grooves": 250.0,
+      "blaze": 1000
+    },
+    {
+      "code": "NIRT23",
+      "wl_min": 1275,
+      "wl_max": 1350,
+      "wl_range_str": "1275-1350nm",
+      "platforms_raw": "PD",
+      "platform_codes": [
+        "PD"
+      ],
+      "grating_spec_str": "830g 1200nm",
+      "grooves": 830.0,
+      "blaze": 1200
+    },
+    {
+      "code": "DUV5",
+      "wl_min": 200,
+      "wl_max": 870,
+      "wl_range_str": "200-870nm",
+      "platforms_raw": "SE",
+      "platform_codes": [
+        "SE"
+      ],
+      "grating_spec_str": "600g 300nm",
+      "grooves": 600.0,
+      "blaze": 300
+    }
+  ],
+  "evolve_map": {
+    "SE": "SmartEngine",
+    "EE": "EagleEye",
+    "HB": "HummingBird",
+    "SW": "SideWinder",
+    "SB": "SilverBullet",
+    "RB": "RedBullet",
+    "PD": "Phenom",
+    "MG": "Magna",
+    "DF": "Dragonfly",
+    "PH": "PocketHawk",
+    "DB": "Delta",
+    "GB": "GoldenBullet",
+    "MR": "Merak"
+  },
+  "manual_overrides": {
+    "SE|2400|240": [
+      "FUV8",
+      "FUV18",
+      "DUV8"
+    ],
+    "SE|2400|400": [
+      "V3",
+      "V5A",
+      "V15",
+      "V16",
+      "V38"
+    ],
+    "SE|1800|250": [
+      "FUV3",
+      "FUV4",
+      "FUV5",
+      "FUV6",
+      "DUV7",
+      "DUV11"
+    ],
+    "SE|1800|500": [
+      "V14",
+      "V31",
+      "V40",
+      "V44",
+      "V47"
+    ],
+    "SE|1600|200": [
+      "FUV7",
+      "FUV14"
+    ],
+    "SE|1500|600": [
+      "V34",
+      "V39"
+    ],
+    "SE|1400|230": [
+      "FUV9"
+    ],
+    "SE|1200|200": [
+      "FUV1A",
+      "FUV2A",
+      "FUV10",
+      "DUV10"
+    ],
+    "SE|1200|300": [
+      "FUV1",
+      "FUV2",
+      "DUV3",
+      "DUV4"
+    ],
+    "SE|1200|500": [
+      "V11",
+      "V18",
+      "V19",
+      "V24",
+      "V35",
+      "V45"
+    ],
+    "SE|1200|600": [
+      "V8",
+      "V11"
+    ],
+    "SE|1200|750": [
+      "V8"
+    ],
+    "SE|1200|850": [
+      "NIR1",
+      "NIR2",
+      "NIR5",
+      "NIR7"
+    ],
+    "SE|1000|250": [
+      "DUV6"
+    ],
+    "SE|1000|900": [
+      "NIR3",
+      "NIR4"
+    ],
+    "SE|900|500": [
+      "VA",
+      "V7",
+      "V9",
+      "V12",
+      "V20",
+      "V22",
+      "VNIR8"
+    ],
+    "SE|830|800": [
+      "VNIR9",
+      "NIR6",
+      "NIR11"
+    ],
+    "SE|600|250": [
+      "DUV5A",
+      "FUV",
+      "FUV17",
+      "FUV22",
+      "VNIRA"
+    ],
+    "SE|600|300": [
+      "V4A",
+      "DUV5",
+      "VNIR14A"
+    ],
+    "SE|600|400": [
+      "VNIRB",
+      "VNIR10",
+      "VNIR14",
+      "VNIR21A"
+    ],
+    "SE|600|500": [
+      "V2",
+      "V4B",
+      "VNIR",
+      "VNIR2",
+      "VNIR10B",
+      "VNIR19A",
+      "VNIR21"
+    ],
+    "SE|600|800": [
+      "VNIRC",
+      "VNIR15A",
+      "VNIR16"
+    ],
+    "SE|600|1000": [
+      "VNIRE",
+      "VNIR1",
+      "VNIR4",
+      "VNIR10A",
+      "VNIR12",
+      "VNIR13",
+      "VNIR15",
+      "VNIR18",
+      "VNIR19"
+    ],
+    "SE|500|330": [
+      "DUVN",
+      "DUVN1A",
+      "DUVN6",
+      "FUVN3",
+      "VNIR24"
+    ],
+    "SE|500|560": [
+      "VNIR7A",
+      "DUVN3"
+    ],
+    "SE|500|770": [
+      "DUVNA",
+      "DUVN1"
+    ],
+    "SE|400|250": [
+      "FUVNB"
+    ],
+    "SE|300|230": [
+      "FUVNA"
+    ],
+    "SE|300|300": [
+      "V4",
+      "FUVN"
+    ],
+    "SE|300|422": [
+      "VNIR5"
+    ],
+    "SE|300|500": [
+      "V4"
+    ],
+    "EE|2400|240": [
+      "DUV8",
+      "FUV8"
+    ],
+    "EE|2400|400": [
+      "V5A",
+      "V15",
+      "V16",
+      "V38"
+    ],
+    "EE|1800|250": [
+      "FUV4",
+      "FUV11",
+      "DUV11"
+    ],
+    "EE|1800|500": [
+      "V14",
+      "V31",
+      "V47"
+    ],
+    "EE|1500|600": [
+      "V34",
+      "V39"
+    ],
+    "EE|1200|500": [
+      "V11A",
+      "V35",
+      "V41"
+    ],
+    "EE|1200|600": [
+      "V8A",
+      "V11"
+    ],
+    "EE|1200|850": [
+      "V10",
+      "V29",
+      "V43",
+      "NIR1"
+    ],
+    "EE|1000|900": [
+      "NIR4",
+      "NIR8"
+    ],
+    "EE|600|300": [
+      "VNIR14A"
+    ],
+    "EE|600|500": [
+      "V4B",
+      "VNIR"
+    ],
+    "EE|600|800": [
+      "VNIR1A"
+    ],
+    "EE|500|330": [
+      "DUVN",
+      "DUVN4"
+    ],
+    "EE|500|560": [
+      "V13",
+      "VNIR7A",
+      "VNIR23"
+    ],
+    "EE|300|300": [
+      "V4",
+      "FUVN"
+    ],
+    "EE|300|500": [
+      "V4C"
+    ],
+    "HB|2400|240": [
+      "FUV8"
+    ],
+    "HB|1400|230": [
+      "FUV9",
+      "FUV24"
+    ],
+    "HB|1200|200": [
+      "FUV1A",
+      "FUV2A",
+      "FUV10",
+      "V27"
+    ],
+    "HB|1200|250": [
+      "FUV2B"
+    ],
+    "HB|1200|850": [
+      "V33",
+      "NIR1",
+      "NIR2",
+      "NIR9"
+    ],
+    "HB|1000|900": [
+      "NIR4",
+      "NIR4R"
+    ],
+    "HB|900|550": [
+      "VB",
+      "V7A",
+      "V13A",
+      "V21",
+      "V37",
+      "V46"
+    ],
+    "HB|600|300": [],
+    "HB|600|500": [
+      "V4B",
+      "V17",
+      "VNIR",
+      "VNIRF(-MEQ)"
+    ],
+    "HB|500|330": [
+      "V4E",
+      "FUVA",
+      "DUVN"
+    ],
+    "HB|500|560": [
+      "V4D",
+      "VNIRD"
+    ],
+    "HB|300|230": [
+      "FUVNA"
+    ],
+    "HB|300|300": [
+      "V4",
+      "FUVN",
+      "VNIR7"
+    ],
+    "SW|830|1200": [
+      "NIRL"
+    ],
+    "SW|600|1600": [
+      "NIRK"
+    ],
+    "SW|400|1200": [
+      "NIRE",
+      "NIRF",
+      "NIRG",
+      "NIRC5"
+    ],
+    "SW|400|1600": [
+      "NIRN"
+    ],
+    "SW|300|1200": [
+      "NIRS"
+    ],
+    "SW|250|1000": [
+      "NIRB1"
+    ],
+    "SW|236.8|1350": [
+      "NIRA",
+      "NIRB",
+      "NIRC",
+      "NIRJ"
+    ],
+    "SW|200|1550": [
+      "NIRH1"
+    ],
+    "SW|200|1050": [
+      "NIRH"
+    ],
+    "SW|150|1250": [
+      "NIRU"
+    ],
+    "SW|150|1450": [
+      "NIRU1"
+    ],
+    "SW|120|1800": [
+      "NIRD"
+    ],
+    "SW|120|1000": [
+      "NIRC4"
+    ],
+    "SW|120|1550": [
+      "NIRV"
+    ],
+    "SB|1200|200": [
+      "FUV20"
+    ],
+    "SB|900|200": [
+      "FUV15"
+    ],
+    "SB|768|420": [],
+    "SB|700|530": [
+      "FUV25(-SM)"
+    ],
+    "SB|600|250": [
+      "FUV19",
+      "DUV2"
+    ],
+    "SB|500|240": [],
+    "SB|500|330": [
+      "V4E",
+      "FUVA",
+      "FUV21"
+    ],
+    "SB|500|560": [
+      "V28",
+      "DUV2C"
+    ],
+    "SB|400|550": [
+      "DUVN5"
+    ],
+    "SB|400|850": [
+      "DUVN5A",
+      "VNIR22"
+    ],
+    "SB|300|500": [
+      "VNIR7B"
+    ],
+    "PH|500|330": [
+      "V4E",
+      "VNIR6",
+      "VNIR17"
+    ],
+    "PH|500|770": [
+      "VNIR6A",
+      "VNIR17A"
+    ],
+    "PH|300|500": [
+      "V23"
+    ],
+    "PH|300|300": [
+      "DUV2D",
+      "DUVN2B",
+      "FUVN"
+    ],
+    "PH|300|1200": [
+      "NIRA2",
+      "NIRC2"
+    ],
+    "PH|150|1250": [
+      "NIRA1",
+      "NIRC1"
+    ],
+    "PH|150|250": [
+      "DUVN2"
+    ],
+    "PH|150|300": [
+      "DUVN2A"
+    ],
+    "PH|400|250": [
+      "FUV23"
+    ],
+    "PH|400|550": [
+      "VNIR20"
+    ],
+    "RB|293.53|1300": [
+      "NIRC3"
+    ],
+    "RB|360|1000": [],
+    "PD|2400|300": [
+      "V26",
+      "VT1"
+    ],
+    "PD|1500|600": [
+      "V25",
+      "V30",
+      "NIRT5"
+    ],
+    "PD|1200|850": [
+      "NIRT1B",
+      "NIRT10",
+      "V36"
+    ],
+    "PD|1000|900": [
+      "V32",
+      "NIRT3"
+    ],
+    "PD|830|1200": [
+      "NIRT6",
+      "NIRT20",
+      "NIRT23"
+    ],
+    "PD|750|1200": [
+      "NIRT4",
+      "NIRT13"
+    ],
+    "MR|1500|930": [
+      "NIRT2"
+    ],
+    "DF|300|1200": [
+      "NIRC2"
+    ],
+    "DF|300|2000": [
+      "NIRT18"
+    ],
+    "DF|265|1600": [
+      "NIRM"
+    ]
+  }
+}

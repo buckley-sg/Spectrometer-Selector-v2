@@ -1,0 +1,23 @@
+/* Minimal global reset for the Evolve Selector app.
+   All component styles use inline styles to stay self-contained. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+}
+
+/* Remove default number-input spinners (they interfere with the design) */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}

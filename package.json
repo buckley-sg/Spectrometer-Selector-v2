@@ -1,0 +1,84 @@
+{
+  "name": "evolve-selector-v2",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "author": "Evolve Sensing",
+  "description": "Spectrometer configuration selector for Evolve Sensing products (v2 — adds quote-request flow)",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "compile:electron": "tsc -p tsconfig.electron.json && node -e \"const fs=require('fs');['main','preload'].forEach(f=>{const s='electron/'+f;if(fs.existsSync(s+'.js')){fs.renameSync(s+'.js',s+'.cjs')}})\"",
+    "build:electron": "tsc -b && vite build && npm run compile:electron && electron-builder --win",
+    "dev:electron": "tsc -b && vite build && npm run compile:electron && electron .",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "test": "npm run test:validators && npm run test:formatters && npm run test:web3forms",
+    "test:validators": "tsx tests/validators.smoke.ts",
+    "test:formatters": "tsx tests/formatters.smoke.ts",
+    "test:web3forms": "tsx tests/web3forms.smoke.ts"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@types/node": "^24.12.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "electron": "^35.0.0",
+    "electron-builder": "^26.0.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.4.0",
+    "png-to-ico": "^2.1.8",
+    "sharp": "^0.34.5",
+    "tsx": "^4.19.0",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.57.0",
+    "vite": "^8.0.1"
+  },
+  "build": {
+    "appId": "com.evolvesensing.selector-v2",
+    "productName": "Evolve Selector v2",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*.cjs",
+      "public/icon.png"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "public/icon.ico"
+    },
+    "nsis": {
+      "oneClick": true,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": false,
+      "installerIcon": "public/icon.ico",
+      "uninstallerIcon": "public/icon.ico"
+    },
+    "portable": {
+      "artifactName": "EvolveSelectorV2-${version}-portable.exe"
+    }
+  }
+}
