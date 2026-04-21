@@ -194,6 +194,18 @@ export default function App() {
       {/* Results */}
       {searchResult && (
         <div>
+          {/* Quote prompt — shown above results so the CTA is visible before
+              the user starts scanning result cards. Rendered inside the
+              searchResult guard so it only appears after a search has run. */}
+          {hasAnyResults && (
+            <div style={{ marginBottom: 20 }}>
+              <QuotePrompt
+                hasExactMatches={hasExactMatches}
+                onRequestQuote={() => setQuoteFlow({ phase: "form" })}
+              />
+            </div>
+          )}
+
           {/* Exact matches */}
           {searchResult.matches.length > 0 ? (
             <>
@@ -341,14 +353,6 @@ export default function App() {
                 </div>
               )}
             </div>
-          )}
-
-          {/* Quote prompt — shown whenever there's at least one result of any kind */}
-          {hasAnyResults && (
-            <QuotePrompt
-              hasExactMatches={hasExactMatches}
-              onRequestQuote={() => setQuoteFlow({ phase: "form" })}
-            />
           )}
         </div>
       )}
